@@ -1,0 +1,6 @@
+print("enter the length of rectangle")
+l = input()
+print("enter the width of rectangle")
+w = input()
+perimeter =2*int(l)+2*int(w)
+print(f"this is the perimeter   {perimeter}")
